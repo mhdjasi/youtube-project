@@ -439,6 +439,9 @@ line-height: 18px;
     .play-video{
         flex-basis: 100%;
     }
+    .videosection{
+        height: 350px;
+    }
     .right-sidebar{
         flex-basis: 100%;
     }
